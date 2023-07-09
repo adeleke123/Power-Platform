@@ -1,4 +1,4 @@
-## Power Platform
+## Introduction to the Power Platform
 
 The Power Platform is a collection of low-code and no-code tools and services offered by Microsoft that empower individuals and organizations to analyze data, automate processes, build applications, and create intelligent solutions. It comprises four main components: 
 
