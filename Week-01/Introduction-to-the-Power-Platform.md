@@ -2,7 +2,7 @@
 
 The Power Platform is a collection of low-code and no-code tools and services offered by Microsoft that empower individuals and organizations to analyze data, automate processes, build applications, and create intelligent solutions. It comprises four main components: Power Apps, Power Automate, Power BI, and Power Virtual Agents. 
 
-****Let's explore each of these components:
+*Let's explore each of these components:
 
 + `Power Apps:` Power Apps allows users to create custom business applications without extensive coding knowledge. It provides a visual development interface, drag-and-drop components, and a wide range of pre-built templates, connectors, and data integration capabilities. Power Apps enables the creation of canvas apps and model-driven apps, supporting various platforms like web browsers, mobile devices, and tablets.
 
