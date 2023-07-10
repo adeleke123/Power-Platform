@@ -6,6 +6,19 @@ Power Apps is a low-code application development platform offered by Microsoft t
 
 + `Canvas Apps:` Canvas Apps provide a flexible and customizable approach to application development. You start with a blank canvas and design the user interface by dragging and dropping components such as `buttons, text boxes, galleries, and data controls.` Power Apps offers a rich set of controls, properties, and formulas that allow you to create interactive and visually appealing apps. You can connect to various data sources, integrate with other services, and define the application's behavior and logic using a visual designer.
 
+  ![image](https://github.com/adeleke123/Power-Platform/assets/51156057/2d18757e-1af5-458d-a3fe-9f2713f54231)
+
+  ![image](https://github.com/adeleke123/Power-Platform/assets/51156057/4a8b9bba-3237-4f72-87ac-028cc66a6b61)
+
+  ![image](https://github.com/adeleke123/Power-Platform/assets/51156057/dca3d759-2b2d-4143-a596-5e405a0202e2)
+
+
+  ![image](https://github.com/adeleke123/Power-Platform/assets/51156057/8686fd40-73b2-4ebc-8427-2f68740cd884)
+
+
+
+
+
 + `Model-Driven Apps:` Model-Driven Apps provide a structured approach to application development. They are built on top of the `Common Data Service (CDS),` which provides a standardized data schema and business logic framework. With Model-Driven Apps, you define the data model first, including entities, relationships, and business rules. Power Apps generates the application's user interface, forms, views, and navigation based on the data model. Model-Driven Apps are highly customizable, allowing you to tailor the application layout and behavior to meet specific business requirements.
 
 **Key features and benefits of Power Apps include:
