@@ -36,8 +36,7 @@ Now that you have reviewed this module, you should be able to:
 
 + Power Automate
 + [Power Automate](https://learn.microsoft.com/en-us/power-automate/)
-
-### Power Automate Documentation
++ [Power Automate Documentation](https://learn.microsoft.com/en-us/power-automate/)
 
 ### More on Connectors
 + [Connector Reference](https://learn.microsoft.com/en-us/connectors/)
