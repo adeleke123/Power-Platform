@@ -1,4 +1,4 @@
-## Summary and resources
+## Summary and Resources
 
 Microsoft Power Platform offers a point-and-click approach to building custom applications, data visualizations, and automated workflows. This approach makes it easy for anyone familiar with Microsoft Office to create custom business solutions.
 
