@@ -10,32 +10,32 @@ This is only one common scenario in which Power Platform can transform the way b
 
 To expand on this a little more, let’s look at another example. Consider a real estate company that has a team of agents who work in the field meeting with potential sellers and showing properties to buyers. In addition to their agents, they also have a team of managers who are there to support their agents.
 
-The real estate company's agents need the following:
+#### The real estate company's agents need the following:
 
-Quickly search for active property listings while in the field.
++ Quickly search for active property listings while in the field.
 
-Easily intake new properties when working with new sellers including capturing property details, snap pictures, and schedule open houses as needed.
++ Easily intake new properties when working with new sellers including capturing property details, snap pictures, and schedule open houses as needed.
 
-The real estate company's managers need to be able to do the following:
+#### The real estate company's managers need to be able to do the following:
 
-Easily see which properties are currently listed.
++ Easily see which properties are currently listed.
 
-Ensure that property inspections are conducted as needed.
++ Ensure that property inspections are conducted as needed.
 
-Access important details such as how many offers have been made on a property and manage any incoming offers.
++ Access important details such as how many offers have been made on a property and manage any incoming offers.
 
-Easily identify similar properties in the area.
++ Easily identify similar properties in the area.
 
-Have a singular area where they can analyze the current landscape of properties, they are selling, and drive business decisions based on those actions.
++ Have a singular area where they can analyze the current landscape of properties, they are selling, and drive business decisions based on those actions.
 
-Additional information:
+#### Additional information:
 
-The real estate company uses Microsoft Outlook as their primary email application.
++ The real estate company uses Microsoft Outlook as their primary email application.
 
-They use Microsoft Teams. Real estate agents spend a large portion of their day working in Microsoft Teams.
++ They use Microsoft Teams. Real estate agents spend a large portion of their day working in Microsoft Teams.
 
 Let’s see how Power Platform could be used to create a tailored solution for our real estate company that provides everyone in their organization with the tools they need regardless of their needs.
 
-Create a solution in Power platform
+[Create a solution in Power platform](https://www.microsoft.com/videoplayer/embed/RW10klk)
 
 Now that you have seen a few different examples, consider your own business and what processes take up valuable time and are a burden to customers or employees. How can you use Microsoft Power Platform to improve them?
