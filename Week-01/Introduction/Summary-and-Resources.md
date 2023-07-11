@@ -24,35 +24,35 @@ Now that you have reviewed this module, you should be able to:
 
 ### Resources
 
-Power BI
-Power BI
++ [Power BI](https://powerbi.microsoft.com/en-us/)
++ [Power BI](https://powerbi.microsoft.com/en-us/customer-showcase/)
 
-Power BI customer showcase
+### Power BI customer showcase
 
-Power Apps
-Power Apps
++ [Power Apps](https://powerapps.microsoft.com/en-us/)
++ [Power Apps](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 
-Power Apps Resources
+### Power Apps Resources
 
-Power Automate
-Power Automate
++ Power Automate
++ [Power Automate](https://learn.microsoft.com/en-us/power-automate/)
++ [Power Automate Documentation](https://learn.microsoft.com/en-us/power-automate/)
 
-Power Automate Documentation
+### More on Connectors
++ [Connector Reference](https://learn.microsoft.com/en-us/connectors/)
 
-More on Connectors
-Connector Reference
++ [Overview of canvas-app connectors for Power Apps](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections-list)
 
-Overview of canvas-app connectors for Power Apps
+### Getting started with Custom Connectors
 
-Getting started with Custom Connectors
-Using a blank custom connector
++ [Using a blank custom connector](https://learn.microsoft.com/en-us/connectors/custom-connectors/define-blank)
 
-From an OpenAPI definition
++ [From an OpenAPI definition](https://learn.microsoft.com/en-us/connectors/custom-connectors/define-openapi-definition)
 
-From a Postman collection
++ [From a Postman collection](https://learn.microsoft.com/en-us/connectors/custom-connectors/define-postman-collection)
 
-Use custom connectors in a PowerApps canvas app
++ [Use custom connectors in a PowerApps canvas app](https://learn.microsoft.com/en-us/training/modules/use-custom-connectors-in-powerapps-canvas-app/)
 
-Get started with Power Virtual Agents
-Power Virtual Agents
+### Get started with Power Virtual Agents
++ [Power Virtual Agents](https://powervirtualagents.microsoft.com/en-us/)
 
