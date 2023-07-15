@@ -4,11 +4,11 @@ In Power Apps, because most apps have multiple screens, it's essential that you 
 
 `Navigate(Screen2,ScreenTransition.Cover)`
 
-When a user selects this button, they automatically go to Screen2. You could also use this formula in the OnSelect property of an icon, such as an arrow, or you could use it in the OnSuccess property of a form. Navigate can be used in any place where you want to provide a user with the ability to go to a specified screen.
+When a user selects this button, they automatically go to `Screen2`. You could also use this formula in the OnSelect property of an icon, such as an arrow, or you could use it in the `OnSuccess property` of a form. Navigate can be used in any place where you want to provide a user with the ability to go to a specified screen.
 
-The Navigate function also allows for a visual transition as the user goes to another screen, by using the ScreenTransition parameter. In the example shown above, we used ScreenTransition.Cover. There are a few different ScreenTransitions to choose from, and each one provides a slightly different user experience when navigating screens. ScreenTransitions will be covered in further detail later in this module.
+The Navigate function also allows for a visual transition as the user goes to another screen, by using the `ScreenTransition` parameter. In the example shown above, we used `ScreenTransition.Cover`. There are a few different ScreenTransitions to choose from, and each one provides a slightly different user experience when navigating screens. ScreenTransitions will be covered in further detail later in this module.
 
-Another screen navigation function is the Back() function. The Back() function navigates the user to the last screen they were working on. The main difference here's with Navigate, you have the user go to a specific screen, and with Back, the app could go to any screen that the user was using immediately before landing on the current screen.
+Another screen navigation function is the `Back() function`. The `Back() function` navigates the user to the last screen they were working on. The main difference here's with Navigate, you have the user go to a specific screen, and with Back, the app could go to any screen that the user was using immediately before landing on the current screen.
 
 When you use Navigate, you can also set one or more context variables to pass parameters to another screen. If you've used another programming tool, this is similar to passing parameters to procedures.
 
