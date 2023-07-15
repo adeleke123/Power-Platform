@@ -4,15 +4,17 @@ Read this first - before you start the lab!
  Important
 
 For this lab, do not sign in with your credentials. Use the following steps to sign in to your lab environment with the correct credentials.
-
+```
 Select Launch VM mode in this unit.
-You'll see a PowerShell window and a Windows Command window appear. After about two to three minutes, they'll close, and Power Apps will open automatically. Wait for the Power Apps home screen.
+You'll see a PowerShell window and a Windows Command window appear. 
+After about two to three minutes, they'll close, and Power Apps will open automatically.
+Wait for the Power Apps home screen.
 To see the lab instructions, select the Instructions tab on the lab side bar.
 You can now begin your work on this lab.
+```
+The purpose of this tutorial is to provide a more detailed example of using the `Back and Navigate functions` with multiple controls in a common real-world scenario. In many of the apps that you develop, certain screens may have multiple controls allowing users to navigate to different screens depending on the control they select. In the following example, you'll create a three screen app to demonstrate the Navigate and Back functionality.
 
-The purpose of this tutorial is to provide a more detailed example of using the Back and Navigate functions with multiple controls in a common real-world scenario. In many of the apps that you develop, certain screens may have multiple controls allowing users to navigate to different screens depending on the control they select. In the following example, you'll create a three screen app to demonstrate the Navigate and Back functionality.
-
-Go to the Power Apps Studio.
+## Go to the Power Apps Studio.
 
 Select Blank app from the Home screen Start from window, and in the Create popup pane select Create under the Blank canvas app option.
 
