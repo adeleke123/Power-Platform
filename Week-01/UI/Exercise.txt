@@ -1,0 +1,10 @@
+##  Exercise - Create UI for a new canvas app
+
+In this unit, you generate a new canvas app that you customize with various pieces of the UI covered in the previous units. This should give you a good idea of the capabilities of UI design in Power Apps.
+
+## Creating a new blank app header
+
+1. Log into Power Apps.
+
++ On the Home screen select Blank app, then under Blank canvas app select Create.
+
