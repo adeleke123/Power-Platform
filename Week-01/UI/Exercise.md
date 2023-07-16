@@ -50,4 +50,7 @@ User().FullName
 Notice how the entire app's color scheme changes according to the new theme, including the button, label, and font colors. This is how easily you can make your Power Apps look and feel unique and fun, but also enhance the usability and appearance.
 
 
+## my designed App
+
+![image](https://github.com/adeleke123/Power-Platform/assets/51156057/107dc512-b366-4a1b-be2a-9b4b4fccbec5)
 
