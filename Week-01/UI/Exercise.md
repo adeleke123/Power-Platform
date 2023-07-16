@@ -9,6 +9,7 @@ In this unit, you generate a new canvas app that you customize with various piec
 2. On the Home screen select Blank app, then under Blank canvas app select Create.
 
 ![image](https://github.com/adeleke123/Power-Platform/assets/51156057/53c7733a-4a4f-4fa4-8d19-6120c15a545b)
+
 3. Name your app New UI App and select Create.
 
 ![image](https://github.com/adeleke123/Power-Platform/assets/51156057/489803d1-a8ca-4c2e-ab83-f5bbed6e7e01)
