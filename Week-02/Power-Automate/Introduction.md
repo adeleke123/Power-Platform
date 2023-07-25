@@ -4,7 +4,7 @@ Power Automate, formerly known as `Microsoft Flow`, is a cloud-based service dev
 
 With Power Automate, users can easily connect different applications, services, and data sources to create automated workflows that facilitate data transfer, notifications, approvals, and more. The platform offers a wide range of pre-built templates and connectors to popular services such as Microsoft Office 365, SharePoint, OneDrive, Teams, Dynamics 365, Azure, and hundreds of other third-party applications like Twitter, Salesforce, Google Drive, and more.
 
-##vKey Concepts of Power Automate:
+##Key Concepts of Power Automate:
 
 + `Triggers:` Triggers initiate the workflow and specify when the automation should start. Common triggers include the arrival of an email, the creation of a new file, the addition of a record to a database, or a schedule-based trigger.
 
