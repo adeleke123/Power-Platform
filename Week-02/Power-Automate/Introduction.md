@@ -1,4 +1,19 @@
-## Power Automate
+## Introducing Power Automate
+
+Welcome to Power Automate! In this module, you'll learn how to build flows.
+
+If you're a beginner with Power Automate, this module will get you going. If you already have some experience, this module will tie concepts together and fill in the gaps.
+
+Learning objectives
+In this module, you will:
+
++ Learn what Power Automate is and how it can be used
++ Create a flow that runs on a schedule
++ Create a flow that automatically saves email attachments
++ Share a flow that your team can use
++ Troubleshoot flows
+
+
 
 Power Automate, formerly known as `Microsoft Flow`, is a cloud-based service developed by Microsoft that allows users to create automated workflows between their favorite apps and services. It is part of the Microsoft Power Platform and is designed to streamline business processes and automate repetitive tasks without requiring any complex coding knowledge.
 
