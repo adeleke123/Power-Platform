@@ -13,7 +13,10 @@ In this module, you will:
 + Share a flow that your team can use
 + Troubleshoot flows
 
+## What is Power Automate?
+Power Automate is an online workflow service that automates actions across the most common apps and services. For example, you can create a flow that adds a lead to Microsoft Dynamics 365 and a record in MailChimp whenever someone with more than 100 followers tweets about your company.
 
+When you sign up, you can connect to more than 500 services, and can manage data either in the cloud or in on-premises sources like SharePoint and Microsoft SQL Server. The list of applications you can use with Power Automate grows constantly.
 
 Power Automate, formerly known as `Microsoft Flow`, is a cloud-based service developed by Microsoft that allows users to create automated workflows between their favorite apps and services. It is part of the Microsoft Power Platform and is designed to streamline business processes and automate repetitive tasks without requiring any complex coding knowledge.
 
